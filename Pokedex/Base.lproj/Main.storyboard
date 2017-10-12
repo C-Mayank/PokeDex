@@ -394,7 +394,7 @@
                                 </constraints>
                             </stackView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="svJ-21-edo">
-                                <rect key="frame" x="0.0" y="449" width="414" height="35"/>
+                                <rect key="frame" x="0.0" y="515" width="414" height="35"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Next Evolution: Venusaur LVL 32" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NRK-rc-sLg">
                                         <rect key="frame" x="92" y="8" width="230" height="19"/>
@@ -415,7 +415,7 @@
                                 </constraints>
                             </view>
                             <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="U1h-PR-vom">
-                                <rect key="frame" x="87" y="530" width="240" height="120"/>
+                                <rect key="frame" x="87" y="596" width="240" height="120"/>
                                 <subviews>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="2" translatesAutoresizingMaskIntoConstraints="NO" id="A9Z-bb-hbb">
                                         <rect key="frame" x="0.0" y="0.0" width="120" height="120"/>
@@ -430,7 +430,7 @@
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="svJ-21-edo" secondAttribute="trailing" id="4ra-Vf-hxi"/>
                             <constraint firstItem="U1h-PR-vom" firstAttribute="top" secondItem="svJ-21-edo" secondAttribute="bottom" constant="46" id="EaE-K0-q5w"/>
-                            <constraint firstAttribute="bottom" secondItem="U1h-PR-vom" secondAttribute="bottom" constant="86" id="Gri-3p-30n"/>
+                            <constraint firstAttribute="bottom" secondItem="U1h-PR-vom" secondAttribute="bottom" constant="20" id="Gri-3p-30n"/>
                             <constraint firstItem="F6t-8L-JIx" firstAttribute="leading" secondItem="FkW-Ay-6Ni" secondAttribute="leading" id="Nfc-kB-b60"/>
                             <constraint firstItem="Y0m-KG-CyL" firstAttribute="leading" secondItem="FkW-Ay-6Ni" secondAttribute="leading" constant="10" id="WaI-9T-KUH"/>
                             <constraint firstAttribute="trailing" secondItem="Y0m-KG-CyL" secondAttribute="trailing" constant="10" id="axK-Ko-e46"/>
